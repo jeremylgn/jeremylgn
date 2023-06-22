@@ -1,4 +1,4 @@
-[<img src="docs/Banner_okp4.png"/>](https://okp4.network)
+[<img src="docs/Okp4-github-banner.webp"/>](https://okp4.network)
 
 # Hey 👋, I'm Jérémy Legon
 
